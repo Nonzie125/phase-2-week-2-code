@@ -17,3 +17,6 @@ const Bot = ({ bot, onClick, onDischarge }) => {
 };
 
 export default Bot;
+
+
+
