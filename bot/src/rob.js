@@ -1,5 +1,5 @@
 import React from 'react';
-
+//pass props bot:object with bot dtails onclick:will handle add and remove ondischarge:this will discharge item
 const Bot = ({ bot, onClick, onDischarge }) => {
   return (
     <div className="bot">
